@@ -32,7 +32,7 @@
 	• Add Cards: add individual cards to a selected deck
 	• Delete: Delete deck
 	
-<img src="images/deck.png">
+<img src="images/Deck.png">
 
  ### Card
 	
