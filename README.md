@@ -6,7 +6,8 @@
  
 ## Project description:
  
-     Teachers will use this application to create decks of flash cards for the subjects that they teach, and students will study the decks.
+     Teachers will use this application to create decks of flash cards for the subjects that they teach,
+     and students will study the decks.
        
 ## Technologies used:
  
@@ -22,7 +23,7 @@
 	• Study: directs users to an interactive study session with the deck's flashcards
 	• Delete: users also have the option to delete the deck and all of its contents
 	
-  <img src="images/Home.png">
+<img src="images/Home.png">
 	
   ### Deck
 	
@@ -31,14 +32,14 @@
 	• Add Cards: add individual cards to a selected deck
 	• Delete: Delete deck
 	
-  <img src="images/deck.png">
+<img src="images/deck.png">
 
   ### Card
 	
 	• Edit: Edit card front and back
 	• Delete: Delete card
 	
-  <img src="images/card.png">
+<img src="images/card.png">
 	
   ### Study
 	
