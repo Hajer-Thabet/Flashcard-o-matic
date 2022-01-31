@@ -16,7 +16,7 @@
 	
 ## Screens:
 
-   ### Home
+### Home
 	 
 	• Create Deck: input a deck name and brief description; users will then be directed to the deck page
  	• View: directs users to the deck page where they can get an overview of deck contents
@@ -25,7 +25,7 @@
 	
 <img src="images/Home.png">
 	
-  ### Deck
+ ### Deck
 	
 	• Edit: users are able to edit the deck name and description
 	• Study: enter study mode
@@ -34,20 +34,20 @@
 	
 <img src="images/deck.png">
 
-  ### Card
+ ### Card
 	
 	• Edit: Edit card front and back
 	• Delete: Delete card
 	
 <img src="images/card.png">
 	
-  ### Study
+### Study
 	
 	• Flip: view the back of the card
 	• Next: view the next card
 	• Previous: view the previous card
 	
-  <img src="images/Study.png">
+<img src="images/Study.png">
 	
 	
  
