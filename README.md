@@ -39,7 +39,7 @@
 	• Edit: Edit card front and back
 	• Delete: Delete card
 	
-<img src="images/card.png">
+<img src="images/Card.png">
 	
 ### Study
 	
